@@ -1,0 +1,35 @@
+.succ{
+	
+	font-size: 20px;
+	color:limegreen;
+	text-align: center;
+		
+}
+.fail{
+	font-size: 20px;
+	color:red;
+	text-align: center;
+}
+.leftside{
+	float: left;
+	width: 70%;
+}
+.rightside{
+	float: left;
+	width: 20%;
+}
+.rightside img{
+	height: 160px;
+	width: 170px;
+}
+.delb{
+	border: 1px solid #ddd;
+    color: #444;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 2px 10px;
+    
+}
+.delb a{
+	font-weight: lighter;
+}
